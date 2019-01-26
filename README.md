@@ -53,7 +53,7 @@ Check code style
 Once packaged, just launch the _fat jar_ as follows:
 
 ```
-java -jar target/bubblesort-1.0-SNAPSHOT-fat.jar
+java -jar target/sortingapi-1.0-SNAPSHOT-fat.jar
 ```
 
 ## Docker (Local)
